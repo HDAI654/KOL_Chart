@@ -83,7 +83,7 @@ downloadBtn.addEventListener('click', () => {
 document.getElementById('chartType').addEventListener('change', function(event) {
   const newChartType = event.target.value;
 
-  if (newChartType === 'line' || newChartType === 'bubble' || newChartType === 'scatter') {
+  if (newChartType === 'bubble' || newChartType === 'scatter') {
     document.getElementById('labels').previousElementSibling.innerText = 'X-axis Data';
     document.getElementById('values').previousElementSibling.innerText = 'Y-axis Data';
     document.getElementById('labels').placeholder = 'example: 45, 67, 89';
