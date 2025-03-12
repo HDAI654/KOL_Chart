@@ -1,4 +1,8 @@
 # KOL_Chart
+![HTML](https://img.shields.io/badge/HTML-5-red)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4.x-purple)
 
 KOL_Chart is a web-based tool for creating interactive charts. This project utilizes HTML, CSS, and JavaScript, along with the Chart.js library for rendering charts.
 
