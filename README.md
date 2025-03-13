@@ -13,6 +13,10 @@ KOL_Chart is a web-based tool for creating interactive charts. This project util
 - No installation required – just open the HTML file in your browser! 🌐
 
 ## Installation & Usage 🚀
+you can use this address  `https://hdai654.github.io/KOL_Chart/`
+
+OR 
+
 1. Clone this repository:
    ```sh
    git clone https://github.com/HDAI654/KOL_Chart.git
